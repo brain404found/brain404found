@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Jamshed Juraev 👋</h1>
 
-<!--
-**404ErrBrainFound/404ErrBrainFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Backend developer</em><br/>
+  <em>🚀 Writing Go, drinking coffee, pushing code and hoping CI doesn’t judge me</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 💻 I enjoy programming and figuring out how things work under the hood.  
+- 🎮 I like video games — from classic RTS to modern RPGs.  
+- ♟ I play chess for fun, especially late-night blitz games.  
+- 🏋️ Sports help me reset after deep debugging sessions.  
+
+---
+
+### 🚀 Tech Stack
+
+```go
+type Dev struct {
+    Languages:      []string{"Go", "Java"},
+    Frameworks:     []string{"Gin", "gRPC", "Spring Boot", "Hibernate"},
+    DevOps:         []string{"Docker", "Kubernetes", "Grafana", "Prometheus"},
+    MessageBrokers: []string{"NATS", "Kafka"},
+    Databases:      []string{"PostgreSQL", "MongoDB", "Redis",  "ClickHouse"},
+    Tools:          []string{"Git", "GitHub", "GitLab", "Zerolog", "Viper", "Make", "Taskfile", "Vault" /* ... and many more */},
+}
+
